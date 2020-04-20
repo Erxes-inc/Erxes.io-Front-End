@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+erxes.io	TRUE	/	FALSE	1999999999	connect.sid	s%3A3IDXPCnsRFcqPGNUkBPo8pIkytOtg0Bk.pbiQSolbcLRyzW%2BOGxbog8NhYoNRdDwrIkUmJM23nPA
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d31bf0e8f7e40ccebe89b8bc028e90f001587377539
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflareinsights.com	TRUE	/	FALSE	1999999999	__cfduid	d0400d8232bfff50ffdc43e67ac3741e71587377691
+static.cloudflareinsights.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.erxes.io	TRUE	/	FALSE	1999999999	__cfduid	d5b720af58db3df4772513f1fa6327b781587377806
+erxes.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+

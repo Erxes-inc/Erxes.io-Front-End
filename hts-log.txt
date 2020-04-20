@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Apr 2020 20:11:28 at https://erxes.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://erxes.io/ -O1 "C:\My Web Sites\Erxes" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:12:29	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://erxes.io/)
+20:15:52	Warning: 	Link https://erxes.io/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog/post/erxes-v0-11-2-release-information (from https://erxes.io/blog/posts/erxes-v0-12-0-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog/post/erxes-v0-11-0-release-information (from https://erxes.io/blog/posts/erxes-v0-11-1-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog/post/erxes-v0-10-1-release-information (from https://erxes.io/blog/posts/erxes-v0-11-0-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog_wp/wp-content/uploads/2019/09/erxes-notif.png (from https://erxes.io/blog/posts/erxes-v0-10-1-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog_wp/wp-content/uploads/2019/09/customer-message.png (from https://erxes.io/blog/posts/erxes-v0-10-0-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog_wp/wp-content/uploads/2019/09/erxes-kb-reaction.png (from https://erxes.io/blog/posts/erxes-v0-10-0-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog_wp/wp-content/uploads/2019/09/erxes-messenger-install.png (from https://erxes.io/blog/posts/erxes-v0-10-0-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/blog_wp/wp-content/uploads/2019/09/deal-attachment.png (from https://erxes.io/blog/posts/erxes-v0-10-0-release-information)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/signin (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/search-organizations (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/growthHacking (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/salesPipeline (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/inbox (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/engage (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/contactFeature (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/messenger (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/popup (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/knowledgeBase (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/task (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/knowledge-base (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/integrations (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/roadmap (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/team (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/branding (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/hubspot-alternative-erxes-swag (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/contact (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/terms (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/privacy (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/dmca (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/gdpr (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/create (from https://erxes.io/create/)
+20:16:47	Error: 	"Not Found" (404) at link https://erxes.io/create/install (from https://erxes.io/create/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 19 seconds : 397 links scanned, 363 files written (28686436 bytes overall) [24947470 bytes received at 78205 bytes/sec], 6849865 bytes transferred using HTTP compression in 145 files, ratio 38%, 44.3 requests per connection
+(33 errors, 1 warnings, 0 messages)
